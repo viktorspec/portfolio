@@ -4,4 +4,4 @@
 + JS,jQuery,PHP
 
   
-+ Can you view [my portfolio] ([https://pages.github.com/](https://viktorspec.github.io/portfolio/)https://viktorspec.github.io/portfolio/)
++ Can you view [my portfolio] (https://viktorspec.github.io/portfolio/)
